@@ -1,1 +1,41 @@
+# Data Flow Diagram (DFD) – Airbnb Clone Backend
+
+## Overview
+
+This Data Flow Diagram illustrates how data flows within the Airbnb Clone backend system. It maps out the interactions between users (Guests, Hosts, Admins) and the system processes, highlighting how data is input, processed, and output.
+
+## Diagram Components
+
+- **External Entities**: Represent the users interacting with the system.
+- **Processes**: Core functionalities of the system.
+- **Data Stores**: Repositories where data is stored.
+- **Data Flows**: Arrows indicating the movement of data between entities, processes, and data stores.
+
+## Accessing the Diagram
+
+The diagram is available as a PNG file:
+
+- **File**: `data-flow.png`
+- **Location**: `data-flow-diagram/` directory
+
+## Editing the Diagram
+
+To edit or expand the diagram:
+
+1. Open [Draw.io](https://app.diagrams.net/).
+2. Import the `.drawio` file (if available).
+3. Modify the diagram as needed.
+4. Export as PNG and replace `data-flow.png`.
+
+## Project Details
+
+- **Repository**: `alx-airbnb-project-documentation`
+- **Directory**: `data-flow-diagram/`
+- **Files**:
+  - `data-flow.png`
+  - `README.md`
+
+## Author
+
+This documentation is part of the ALX Airbnb Clone backend project.
 
