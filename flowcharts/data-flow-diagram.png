@@ -1,0 +1,23 @@
+# Airbnb Clone – Backend Flowcharts
+
+## Overview
+
+This directory contains flowcharts that map out backend processes of the Airbnb Clone system. These visual diagrams help clarify system logic and decision points during key operations.
+
+---
+
+## 📄 Included Flowcharts
+
+### 1. Property Booking Flowchart (`property-booking-flowchart.png`)
+Visualizes the step-by-step process a guest follows to book a property, including user input, system checks, and payment confirmation.
+
+---
+
+## 🔧 How to View or Edit
+
+- Use [Draw.io](https://app.diagrams.net/) to open or modify the source diagram.
+- Export as PNG and update the existing file when changes are made.
+
+---
+
+## Project
